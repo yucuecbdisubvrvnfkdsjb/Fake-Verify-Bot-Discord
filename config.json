@@ -1,13 +1,13 @@
 {
-    "botToken": "OTkzMTA0NjQzNjMyNjc2ODc0.GJJIQh.zmhfcNnsc1t6FjmiIDYLewwXIFQzmHULrY2GMw",
-    "logs_channel_id": "993556999973384322",
+    "botToken": "MTI0NzMzODg2MzU4NDg3NDU1Ng.GPo_rG.93MB0CXEagpvu_uVti2D9w-GsWn-gokCKaiHuE",
+    "logs_channel_id": "1210221242599215115",
 
-    "prefix": "*",
-    "command_name": "start",
+    "prefix": "!",
+    "command_name": "verify",
     
-    "give_role": false,
-    "role_name": "ROLE-NAME-HERE",
+    "give_role": true,
+    "role_name": "member",
 
     "mass_dm": 3,
-    "message": "https://discord.gg/dusky "
+    "message": "I found this really cool server, it has lots of different gaming clips, memes, and other fun stuff. Although it has only a few people, its still cool because they posts the best memes you can possibly find. The reason it has so few is because the previous server recently got deleted. but i found the reposted one. https://discord.gg/kePepNUhgN "
 }
